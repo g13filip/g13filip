@@ -1,8 +1,10 @@
-### Cześć 👋
+# Cześć 👋
 
 + Jestem studentem kierunku **Informatyka i Systemy Inteligentne** na wydziale WEAIiIB na AGH 🤔🤔
 + Jestem uczniem szkoły muzycznej II stopnia instrumentalistyki klasycznej na instrumentach perkusyjnych ⚡
 + Aktulanie dopiero uczę się obsługi GitHuba 😄
+
+### Po więcej informacji zapraszam na moją [stronę](https://g13filip.github.io/)
 
 <!--
 **g13filip/g13filip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
