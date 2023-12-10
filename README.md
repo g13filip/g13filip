@@ -4,7 +4,10 @@
 + Jestem uczniem szkoły muzycznej II stopnia instrumentalistyki klasycznej na instrumentach perkusyjnych ⚡
 + Aktulanie dopiero uczę się obsługi GitHuba 😄
 
-## Po więcej informacji zapraszam na moją [stronę](https://g13filip.github.io/)
+# Zestaw 6
 
 ### Tutaj można znaleźć mojego [forka](https://github.com/g13filip/PFusionGF.git/)
 ### A tu jego główną stronę na [Papers with Code](https://paperswithcode.com/paper/patchfusion-an-end-to-end-tile-based)
+
+
+## Po więcej informacji zapraszam na moją [stronę](https://g13filip.github.io/)
